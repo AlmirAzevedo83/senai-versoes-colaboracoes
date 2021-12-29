@@ -1,0 +1,2 @@
+Trabalho de Versionamento SENAI
+Trabalho com Git Github
