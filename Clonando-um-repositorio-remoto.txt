@@ -1,0 +1,7 @@
+1 - Clonando um Repositório Remoto
+
+Para fazer download de um projeto basta executar o comando $ git clone, passando o endereço do repositório. Pode ser Github, Gitlab, Bitbucket, etc.
+
+Esse comando é bem conhecido, mas ele está aqui por um detalhe que muitas pessoas não sabem: por padrão será criada uma pasta com o nome do projeto, mas você também pode no final do comando indicar qual o nome da pasta que você quer que seja criada.
+
+$ git clone https://meu-endereco.com/meu-projeto.git minha-pasta
